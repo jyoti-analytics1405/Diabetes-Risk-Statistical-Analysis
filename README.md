@@ -15,7 +15,6 @@ This project analyzes 768 patient records to answer a core question: **which hea
 ## 🛠️ Tools Used
 
 - **Microsoft Excel** (Advanced)
-- **Power Query** — data cleaning and transformation
 - **Data Analysis ToolPak** — hypothesis testing (t-test)
 - **Pivot Tables** — cross-verification of statistics
 - **Excel Charts** — data visualization
